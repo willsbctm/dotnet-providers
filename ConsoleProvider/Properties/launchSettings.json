@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "ConsoleProvider": {
+      "commandName": "Project",
+      "commandLineArgs": "--value1=\"Valor da linha de comando\"",
+      "environmentVariables": {
+        "value1": "valor do ambiente"
+      }
+    }
+  }
+}
